@@ -15,8 +15,8 @@ This strategy would take a lot of time to start our react project. There is anot
 ![alt text](https://github.com/abdulrehmanamerbaig/react/blob/master/Tutorial/Pasted%20image%2020231115234537.png)
 
 ### Note: 
-Got Confused which type of command should we use to start our particular app (vite or basic app)?
-Go to the `packge.json -> scripts` and choose the appropriate commands to run app.
+_Got Confused which type of command should we use to start our particular app (vite or basic app)?_
+_Go to the `packge.json -> scripts` and choose the appropriate commands to run app._
 
 ## About Components
 Always capitalize first letter of components that have been exported in both vite and basic react app.
